@@ -2,11 +2,13 @@
 
 ### Question 1
 **Q:** Which OCI service provides DNS capabilities for translating domain names into IP addresses?
+
 **A:** `OCI DNS`
 
 ---
 ### Question 2
 **Q:** What is the main benefit of using OCI’s Resource Manager?
+
 **A:** `Automates infrastructure provisioning using Terraform`
 
 ---
